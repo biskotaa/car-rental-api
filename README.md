@@ -17,7 +17,7 @@ A simple REST API for car rental management, built with Node.js, Express.js, Mon
  Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/car-rental-api.git
+git clone https://github.com/biskotaa/car-rental-api.git
 cd car-rental-api
 ```
  Install the required dependencies:
