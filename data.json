@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Golf mk8",
+        "price_per_day": 50.0,
+        "year": 2015,
+        "color": "black",
+        "steering_type": "automatic",
+        "number_of_seats": 5
+    },
+    {
+        "name": "BMW 3 Series",
+        "price_per_day": 100.0,
+        "year": 2020,
+        "color": "blue",
+        "steering_type": "manual",
+        "number_of_seats": 5
+    },
+    {
+        "name": "BMW z4 Series",
+        "price_per_day": 150.0,
+        "year": 2024,
+        "color": "green",
+        "steering_type": "automatic",
+        "number_of_seats": 2
+    }
+]
